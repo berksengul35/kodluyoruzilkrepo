@@ -5,11 +5,15 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 ## Installation
 
 Öncelikle projeyi clonelayın.
-`git clone https://github.com/berksengul35/kodluyoruzilkrepo`
+
+```
+git clone https://github.com/berksengul35/kodluyoruzilkrepo
+```
 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
 Linux için:
 
 ```
